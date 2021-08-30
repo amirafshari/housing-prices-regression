@@ -25,6 +25,7 @@ fetch_california_housing()
 * Linear Regression
 * Decision Tree
 * Random Forest
+* SVM
 ### Cost Function
 * Root Mean Squared Error (RMSE)
 
